@@ -5,7 +5,6 @@ br.com.receitaquedoimenos.ReceitaQueDoiMenos.infra.exceptions
 br.com.receitaquedoimenos.ReceitaQueDoiMenos.infra.handler
 br.com.receitaquedoimenos.ReceitaQueDoiMenos.infra.security
 br.com.receitaquedoimenos.ReceitaQueDoiMenos.models.drink
-br.com.receitaquedoimenos.ReceitaQueDoiMenos.models.ingredient
 br.com.receitaquedoimenos.ReceitaQueDoiMenos.models.login
 br.com.receitaquedoimenos.ReceitaQueDoiMenos.models.meal
 br.com.receitaquedoimenos.ReceitaQueDoiMenos.models.user
